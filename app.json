@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Vigilanse",
+    "slug": "vigilanse",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-notifications"
+    ],
+    "android": {
+      "package": "br.com.vigilanse.app"
+    },
+    "ios": {
+      "bundleIdentifier": "br.com.vigilanse.app"
+    }
+  }
+}
