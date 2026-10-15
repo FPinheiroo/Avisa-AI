@@ -1,4 +1,4 @@
-# Vigilanse - Especificação e Integração de Componentes (Lab 4)
+# Avisa Ai! - Especificação e Integração de Componentes (Lab 4)
 
 ## 1. Tecnologias Utilizadas
 - **Linguagem:** TypeScript
