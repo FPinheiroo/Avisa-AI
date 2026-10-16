@@ -1,5 +1,9 @@
 # Avisa Ai! - Especificação e Integração de Componentes (Lab 4)
 
+Felipe da Rocha Pinheiro - RA:22.222.059-2  
+Fernando Domingues - RA:22.122.034-6
+Nathan Vespasiano - RA: 22.124.086-4
+
 ## 1. Tecnologias Utilizadas
 - **Linguagem:** TypeScript
 - **Plataforma:** React Native / Node.js
